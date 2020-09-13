@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
 
-body .gist .highlight {
+body .gist .highlight,
+body .gist .gist-data {
     background: #293134 !;
 }
 body .gist .blob-num,
