@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
 
 body .gist .highlight {
-    background: #293134;
+    background: #293134 !important;
 }
 body .gist .blob-num,
 body .gist .blob-code-inner,
@@ -13,37 +13,37 @@ body .gist .pl-smp,
 body .gist .pl-stj,
 body .gist .pl-vo,
 body .gist .pl-vpf {
-    color: #e0e2e4;
+    color: #e0e2e4 !important;
 }
 body .gist .pl-c,
 body .gist .pl-c span {
-    color: #66747b;
-    font-style: italic;
+    color: #66747b !important;
+    font-style: italic !important;
 }
 body .gist .pl-mb {
-    color: #ec7600;
-    font-weight: 700;
+    color: #ec7600 !important;
+    font-weight: 700 !important;
 }
 body .gist .pl-mh .pl-en {
-    color: #66747b;
-    font-weight: 700;
+    color: #66747b !important;
+    font-weight: 700 !important;
 }
 body .gist .pl-mi {
-    color: #93c763;
-    font-style: italic;
+    color: #93c763 !important;
+    font-style: italic !important;
 }
 body .gist .pl-sc {
-    color: #96989a;
+    color: #96989a !important;
 }
 body .gist .pl-st {
-    color: #da4236;
+    color: #da4236 !important;
 }
 body .gist .pl-c1>.pl-c1 {
-    color: #678cb1;
+    color: #678cb1 !important;
 }
 body .gist .pl-c1,
 body .gist .pl-sr .pl-cce {
-    color: #ffcd22;
+    color: #ffcd22 !important;
 }
 body .gist .pl-e,
 body .gist .pl-k,
@@ -57,43 +57,42 @@ body .gist .pl-mr,
 body .gist .pl-ms,
 body .gist .pl-s1 .pl-v,
 body .gist .pl-s3 {
-    color: #93c763;
+    color: #93c763 !important;
 }
 body .gist .pl-en,
 body .gist .pl-v {
-    color: #678cb1;
+    color: #678cb1 !important;
 }
 body .gist .pl-mh,
 body .gist .pl-mq {
-    color: #66747b;
+    color: #66747b !important;
 }
 body .gist .pl-pds,
 body .gist .pl-s,
 body .gist .pl-s1 .pl-pse .pl-s2,
 body .gist .pl-sv {
-    color: #ec7600;
+    color: #ec7600 !important;
 }
 body .gist .pl-sr,
 body .gist .pl-sr .pl-sra,
 body .gist .pl-sr .pl-sre,
 body .gist .pl-src {
-    color: #d39745;
+    color: #d39745 !important;
 }
 body .gist .pl-mi1,
 body .gist .pl-mdht {
-    color: #e0e2e4;
-    background: rgba(0, 64, 0, .5);
+    color: #e0e2e4 !important;
+    background: rgba(0, 64, 0, .5) !important;
 }
 body .gist .pl-md,
 body .gist .pl-mdhf,
 body .gist .pl-id,
 body .gist .pl-ii {
-    color: #e0e2e4;
-    background: rgba(64, 0, 0, .5);
+    color: #e0e2e4 !important;
+    background: rgba(64, 0, 0, .5) !important;
 }
-
 body .gist .blob-num {
-    color: #ced4da;
-    background-color: #495057;
-    pointer-events: none;
+    color: #ced4da !important;
+    background-color: #495057 !important;
+    pointer-events: none !important;
 }
